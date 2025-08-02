@@ -1,1 +1,20 @@
-{"name": "Thailand Accommodation Guide 2025", "short_name": "Accommodation", "start_url": "/GJN-2025-accommodation/", "display": "standalone", "background_color": "#f5f5f5", "theme_color": "#DC143C", "icons": [{"src": "assets/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png"}, {"src": "assets/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png"}]}
+{
+    "name": "TW-Thailand – Accommodation & Flights Guide 2025",
+    "short_name": "Accommodation",
+    "start_url": "/GJN-2025-accommodation-flights/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0b3d91",
+    "icons": [
+        {
+            "src": "assets/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
