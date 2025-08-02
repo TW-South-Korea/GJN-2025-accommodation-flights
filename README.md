@@ -1,26 +1,28 @@
-# 🏨 Thailand Accommodation Guide 2025
+# 🏨✈️ TW-Thailand – Accommodation & Flights Guide 2025
 
-This repository contains a mobile-optimised, collapsible guide to your 2025 Thailand trip. It focuses exclusively on accommodation in Phuket and Bangkok, offering essential booking, room, contact, and direction details.
+This repository contains a mobile-friendly, collapsible guide for managing accommodation and flight details for your 2025 Thailand trip. It provides a clear breakdown of bookings, room types, hotel contacts, flight times, and airline links — all structured for easy access on both desktop and mobile.
 
 ## ✅ Live Site
-Once deployed via GitHub Pages, view the guide here:  
-**https://thailand-2025.github.io/GJN-2025-accommodation/**
+Once deployed via GitHub Pages, access the live guide here:  
+**https://tw-thailand.github.io/GJN-2025-accommodation-flights/**
 
 ## ✨ Features
-- **Collapsible sections** for Phuket and Bangkok accommodation
-- **Clickable links** for hotel websites, room types, and directions
-- **Booking details** including stay period and check-in/out times
-- **Hotel contact information** with email and phone
-- **Fully responsive** and optimised for mobile viewing
+- **Collapsible sections** for Phuket Accommodation, Bangkok Accommodation, and Flights  
+- **Clickable hotel and room links** including OneDrive galleries  
+- **Flight lookups** for Jetstar, AirAsia, and Nok Air with check-in and flight status links  
+- **Clear booking references** and check-in/out timing  
+- **Australian date and time formats** for all travel details  
+- **Responsive layout** optimised for mobile and desktop browsing
 
-## 📌 Sections
+## 📌 Guide Sections
 1. 🏝️ Phuket Accommodation  
 2. 🏙️ Bangkok Accommodation  
+3. ✈️ Flights  
 
 ## 🔧 How to Use
-1. Upload files to your GitHub repository.
-2. Enable GitHub Pages under **Settings > Pages > Source: Main > Root (/).**
-3. Open the published link provided by GitHub.
+1. Clone this repository or upload via GitHub.
+2. Enable GitHub Pages via **Settings > Pages > Source: Main > Root (/).**
+3. Visit the published link provided by GitHub.
 
 ## 📄 License
-Open for personal use and sharing.
+This project is open and shareable for personal use.
