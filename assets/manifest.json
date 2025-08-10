@@ -1,10 +1,10 @@
 {
-  "name": "Thailand Accommodation & Flights Guide",
-  "short_name": "Accommodation",
-  "start_url": "./index.html",
+  "name": "\ud83c\udfe8\u2708\ufe0f TW-Thailand \u2013 Accommodation & Flights Guide 2025",
+  "short_name": "TW-Accommodation",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0b3d91",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "assets/icons/icon-192x192.png",
@@ -16,6 +16,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "scope": "./"
+  ]
 }
