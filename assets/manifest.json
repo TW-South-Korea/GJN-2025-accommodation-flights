@@ -1,6 +1,6 @@
 {
-  "name": "Thailand Attractions Guide",
-  "short_name": "Attractions",
+  "name": "Thailand Accommodation & Flights Guide",
+  "short_name": "Accommodation",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
