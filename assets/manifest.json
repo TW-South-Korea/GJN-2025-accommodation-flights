@@ -1,7 +1,8 @@
 {
+  "id": "/accommodation-flights-guide/",
   "name": "TW-Thailand – Accommodation & Flights Guide 2025",
   "short_name": "Accom & Flights",
-  "start_url": "/accommodation-flights-guide/index.html",
+  "start_url": "/accommodation-flights-guide/",
   "scope": "/accommodation-flights-guide/",
   "display": "standalone",
   "background_color": "#ffffff",
