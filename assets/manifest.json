@@ -1,7 +1,7 @@
 {
   "name": "Thailand Attractions Guide",
   "short_name": "Attractions",
-  "start_url": "/GJN-2025-accommodation-flights-guide/",
+  "start_url": "/GJN-2025-accommodation-flights/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0b3d91",
@@ -17,5 +17,5 @@
       "type": "image/png"
     }
   ],
-  "scope": "/GJN-2025-accommodation-flights-guide/"
+  "scope": "/GJN-2025-accommodation-flights/"
 }
