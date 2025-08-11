@@ -1,6 +1,6 @@
 {
-  "name": "🏨✈️ TW-Thailand – Accommodation and Flights Guide 2025",
-  "short_name": "Accomm and Flights",
+  "name": "Thailand Attractions Guide",
+  "short_name": "Attractions",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
