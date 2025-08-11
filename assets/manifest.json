@@ -1,22 +1,21 @@
 {
-  "id": "/accommodation-flights-guide/",
   "name": "TW-Thailand – Accommodation & Flights Guide 2025",
   "short_name": "Accom & Flights",
-  "start_url": "/accommodation-flights-guide/",
-  "scope": "/accommodation-flights-guide/",
+  "start_url": "../index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0b3d91",
   "icons": [
     {
-      "src": "/accommodation-flights-guide/assets/icons/icon-192x192.png",
+      "src": "icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/accommodation-flights-guide/assets/icons/icon-512x512.png",
+      "src": "icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "scope": "../"
 }
