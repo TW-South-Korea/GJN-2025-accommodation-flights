@@ -5,7 +5,7 @@ This repository contains a mobile-friendly, collapsible guide for managing accom
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the live guide here:  
-**https://tw-thailand.github.io/GJN-2025-accommodation-flights-guide/**
+**https://tw-thailand.github.io/GJN-2025-accommodation-flights/**
 
 ## ✨ Features
 
