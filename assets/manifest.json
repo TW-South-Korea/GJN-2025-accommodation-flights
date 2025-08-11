@@ -1,7 +1,7 @@
 {
-  "name": "TW-Thailand – Accommodation & Flights Guide 2025",
-  "short_name": "Accommodation & Flights",
-  "start_url": "./index.html",
+  "name": "Thailand Attractions Guide",
+  "short_name": "Attractions",
+  "start_url": "/GJN-2025-accommodation-flights-guide/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0b3d91",
@@ -17,5 +17,5 @@
       "type": "image/png"
     }
   ],
-  "scope": "./"
+  "scope": "/GJN-2025-accommodation-flights-guide/"
 }
