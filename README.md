@@ -1,11 +1,11 @@
 # 🏨✈️ South Korea Accommodation & Flights Guide 2025
 
-This repository contains a mobile-friendly, collapsible guide for managing accommodation and flight details for your 2025 Thailand trip. It provides a clear breakdown of bookings, room types, hotel contacts, flight times, and airline links — all structured for easy access on both desktop and mobile.
+This repository contains a mobile-friendly, collapsible guide for managing accommodation and flight details for your 2025 South Korea trip. It provides a clear breakdown of bookings, room types, hotel contacts, flight times, and airline links — all structured for easy access on both desktop and mobile.
 
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the live guide here:  
-**https://tw-south-korea.github.io/GJN-2025-accommodation-flights/**
+**https://tw-South Korea.github.io/GJN-2025-accommodation-flights/**
 
 ## ✨ Features
 
