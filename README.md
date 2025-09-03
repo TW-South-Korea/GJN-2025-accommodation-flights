@@ -4,8 +4,9 @@ This repository contains a mobile-friendly, collapsible guide for managing accom
 
 ## ✅ Live Site
 
-Once deployed via GitHub Pages, access the live guide here:  
-**https://tw-South Korea.github.io/GJN-2025-accommodation-flights/**
+Once deployed via GitHub Pages, access the live guide here:
+
+**https://tw-south-korea.github.io/GJN-2025-accommodation-flights/**
 
 ## ✨ Features
 
