@@ -282,7 +282,7 @@ summary.stay {
     const sameOrigin = url.origin === location.origin && url.pathname.startsWith('/GJN-2025-accommodation-flights/');
     if (!sameOrigin && !navigator.onLine) {
       e.preventDefault();
-      alert('You are offline. The Accommodation & Flights Guide works offline, but external links (maps, flights, hotel websites) require the internet. Reconnect to get live updates. The app refreshes itself once you’re back online.');
+      alert('You are offline. Reconnect to get live updates. The app refreshes itself once you’re back online.');
     }
   });
 </script>
